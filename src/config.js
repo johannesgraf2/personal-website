@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Johannes Graf is an Masters student of the University of Liechtenstein, studying Information Systems',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Johannes Graf, Johannes, Graf, johannesgraf, artificial intelligence, data science, python,  java',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
