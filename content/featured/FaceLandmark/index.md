@@ -1,15 +1,14 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
+title: 'Cyling Traning Analysis'
 cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+github: 'https://github.com/y3llwston3/Johannes-Training'
 tech:
-  - TensorFlow.JS
+  - Pandas
   - React
+  - Matplotlib
+  - Numpy
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
-
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+This cycling training data analysis helps to understand the various training zones and effects of individual workout's helping to understand underlying deficits and potential to improve upon.
