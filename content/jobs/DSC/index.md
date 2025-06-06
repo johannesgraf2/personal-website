@@ -1,12 +1,12 @@
 ---
 date: '2020-09-21'
-title: 'Member'
-company: 'DSV - SVVV'
-location: remote
-range: 'Sep 2020 - Present'
-url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
+title: 'Seasonal Worker Production'
+company: 'Endress+Hauser'
+location: In Person
+range: 'Summer of 2020/2021'
+url: 'https://www.de.endress.com/de'
 ---
 
-- Grown knowledge in a peer-to-peer learning environment.
+- Knowled
 - Build solutions for local businesses and the community.
 - Attained several technical workshops.

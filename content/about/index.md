@@ -14,7 +14,7 @@ Hello! I'm Johannes Graf from Lörrach, situated between the two beatiful cities
 
 I'm a dedicated, goal-oriented, time punctual individual who thrives on transforming challenges into successful, tangible outcomes.
 
-I pursued my Bachelor Degree in Business Administration from the International Universtiy of Applied Science https://www.iu.de/
+I pursued my Bachelor Degree in Business Administration from the International Universtiy of Applied Science [IU](https://www.iu.de/)
 
 My Master's studies in Information Systems at the University of Liechtenstein are focused on applying cutting-edge Artificial Intelligence and Data Science techniques to solve complex business challenges.
 
