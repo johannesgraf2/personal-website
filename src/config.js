@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Johannes Graf',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Johannes Graf is an Masters student of the University of Liechtenstein, studying Information Systems',
   siteKeywords:
     'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
   siteUrl: 'https://yashitanamdeo.github.io/',
