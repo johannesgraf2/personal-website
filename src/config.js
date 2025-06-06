@@ -8,31 +8,23 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Johannes Graf',
+  location: 'Lörrach, Germany',
+  email: 'grafjohannes2000@gmail.com',
+  github: 'https://github.com/y3llwston3',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/y3llwston3',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://www.linkedin.com/in/johannes-graf-2431a822a/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://www.instagram.com/jojograf/',
     },
   ],
 
