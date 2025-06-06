@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Johannes Graf',
   siteDescription:
     'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
