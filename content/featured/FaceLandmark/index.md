@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'Cyling Traning Analysis'
+title: 'Cycling Training Analysis'
 cover: 'face-landmark.png'
 github: 'https://github.com/y3llwston3/Johannes-Training'
 tech:
