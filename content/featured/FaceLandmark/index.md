@@ -1,14 +1,14 @@
 ---
 date: '4'
-title: 'Cycling Training Analysis'
+title: 'Grocery Bill Analysis'
 cover: 'face-landmark.png'
-github: 'https://github.com/y3llwston3/Johannes-Training'
+github: 'https://github.com/johannesgraf2/Grocery-Bill-Analysis'
 tech:
-  - Pandas
   - React
+  - SQL
   - Matplotlib
   - Numpy
 showInProjects: true
 ---
 
-This cycling training data analysis helps to understand the various training zones and effects of individual workout's helping to understand underlying deficits and potential to improve upon.
+This platform let's users upload their own groceries bill. The algorythm then creates an analysis of how their individual inflation develops. In the future the platform will be able to compare costs of supermarkets and make recommandations on where to buy groceries.

@@ -11,12 +11,12 @@ module.exports = {
   name: 'Johannes Graf',
   location: 'Lörrach, Germany',
   email: 'grafjohannes2000@gmail.com',
-  github: 'https://github.com/y3llwston3',
+  github: 'https://github.com/johannesgraf2',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/y3llwston3',
+      url: 'https://github.com/johannesgraf2',
     },
     {
       name: 'Linkedin',
