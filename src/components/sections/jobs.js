@@ -122,7 +122,7 @@ const StyledTabContent = styled.div`
   width: 100%;
   height: auto;
   padding-top: 12px;
-  padding-left: 30px;
+  padding-left: 0px;
   ${media.tablet`padding-left: 20px;`};
   ${media.thone`padding-left: 0;`};
 

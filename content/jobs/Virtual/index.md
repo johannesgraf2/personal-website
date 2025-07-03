@@ -7,4 +7,4 @@ range: 'June 2025 - present'
 url: 'https://www.de.endress.com/de'
 ---
 
-- Developing SharePoint best practices for the Strategic Business Department Team to better organize and navigate internal SharePoint sites
+- Developing SharePoint best practices for the Strategic Business Department Team to better organize and navigate internal SharePoint sites. As well as help with tasks regarding displaying data effectively.
