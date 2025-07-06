@@ -4,7 +4,7 @@ module.exports = {
     'Johannes Graf is an Masters student of the University of Liechtenstein, studying Information Systems',
   siteKeywords:
     'Johannes Graf, Johannes, Graf, johannesgraf, artificial intelligence, data science, python,  java',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://grafjohannes.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
